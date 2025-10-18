@@ -1,3 +1,8 @@
-python -m venv rag_env
-source rag_env/bin/activate
-pip install langchain faiss-cpu sentence-transformers openai
+# task to do
+
+
+1 make work dockerfile
+1 add ngrok  or an alternative 
+2 add service url to twilio
+3 test webhook
+
