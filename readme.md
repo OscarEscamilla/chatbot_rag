@@ -1,10 +1,11 @@
 # task to do
 
 
-- 1 build a pipe to bring it to railway or aws 
-- 1 add ngrok  or an alternative 
-- 2 add service url to twilio
-- 3 test webhook
+- 1 build a pipeline to bring it to railway or aws 
+- 2 add data files and convert to enbeddings 
+- 3 pass enbeddings to webhook 
+- 3 research if use mcp calendar or custom
+- 4 connect to postgress to save appointments and clients history
 
 
 
